@@ -1,0 +1,28 @@
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.AssemblyInfoInputs.cache
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.AssemblyInfo.cs
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\Tony\bin\Debug\net9.0\Tony.exe
+C:\Users\Ryzen\Tony\bin\Debug\net9.0\Tony.deps.json
+C:\Users\Ryzen\Tony\bin\Debug\net9.0\Tony.runtimeconfig.json
+C:\Users\Ryzen\Tony\bin\Debug\net9.0\Tony.dll
+C:\Users\Ryzen\Tony\bin\Debug\net9.0\Tony.pdb
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.dll
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\refint\Tony.dll
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.pdb
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\Tony.genruntimeconfig.cache
+C:\Users\Ryzen\Tony\obj\Debug\net9.0\ref\Tony.dll
+C:\Users\Ryzen\C# space\bin\Debug\net9.0\Tony.exe
+C:\Users\Ryzen\C# space\bin\Debug\net9.0\Tony.deps.json
+C:\Users\Ryzen\C# space\bin\Debug\net9.0\Tony.runtimeconfig.json
+C:\Users\Ryzen\C# space\bin\Debug\net9.0\Tony.dll
+C:\Users\Ryzen\C# space\bin\Debug\net9.0\Tony.pdb
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.AssemblyInfoInputs.cache
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.AssemblyInfo.cs
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.dll
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\refint\Tony.dll
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.pdb
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.genruntimeconfig.cache
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\ref\Tony.dll
