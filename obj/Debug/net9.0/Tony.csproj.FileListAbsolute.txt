@@ -26,3 +26,4 @@ C:\Users\Ryzen\C# space\obj\Debug\net9.0\refint\Tony.dll
 C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.pdb
 C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.genruntimeconfig.cache
 C:\Users\Ryzen\C# space\obj\Debug\net9.0\ref\Tony.dll
+C:\Users\Ryzen\C# space\obj\Debug\net9.0\Tony.sourcelink.json

@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>HelloWorld.Program1</StartupObject>
+    <StartupObject>Ryzen.Program5</StartupObject>
   </PropertyGroup>
 
 </Project>
