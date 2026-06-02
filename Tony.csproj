@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Ryzen.Program5</StartupObject>
+    <StartupObject>CSpace.Program6</StartupObject>
   </PropertyGroup>
 
 </Project>
